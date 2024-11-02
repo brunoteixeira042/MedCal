@@ -6,7 +6,7 @@ MedCal é uma plataforma web projetada para facilitar o gerenciamento de consult
 
 ## Contexto do Projeto
 
-Este projeto foi desenvolvido em equipe durante o curso da Proz, idealizado pela parceria entre a AWS e a Meta. O portal tem o intuito de facilitar o acesso a serviços médicos de qualidade, permitindo que os usuários agendem consultas de forma prática e eficiente. Seja para quem prefere atendimento presencial ou online, a MedCal está aqui para ajudar.
+Este projeto foi desenvolvido em equipe durante o curso da Proz, idealizado pela parceria entre a AWS. O portal tem o intuito de facilitar o acesso a serviços médicos de qualidade, permitindo que os usuários agendem consultas de forma prática e eficiente. Seja para quem prefere atendimento presencial ou online, a MedCal está aqui para ajudar.
 
 ## Estrutura do Projeto
 
