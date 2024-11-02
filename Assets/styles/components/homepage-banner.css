@@ -1,0 +1,15 @@
+.homepage-banner {
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+}
+
+.hp-banner-container h1 {
+    margin-right: 120px;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    font-size: 42px;
+    font-weight: bold;
+    text-align: end;
+    padding: 1px 0;
+}

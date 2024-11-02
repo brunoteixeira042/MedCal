@@ -1,0 +1,22 @@
+footer {
+    background-color: var(--cor-verde4);
+    margin: 0px;
+    overflow: hidden;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-icons {
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 20px;
+}
+
+.footer-icons a {
+    padding-right: 20px;
+}
+
+footer img:hover {
+    transform: scale(1.2); /* Aumenta o ícone ao passar o mouse */
+}
