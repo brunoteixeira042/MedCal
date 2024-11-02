@@ -46,9 +46,9 @@ Cada página contém um cabeçalho com um menu de navegação que permite fácil
 3. **Navegue pelo Site**: Utilize o menu de navegação para explorar as diferentes seções do site.
 
 ## Imagens
-![alt text](<Captura de tela 2024-11-02 150345.png>)
+![alt text](Assets/img/Captura de tela 2024-11-02 150345.png)
 
-![alt text](image.png)
+![alt text](Assets/img/image.png)
 
 # Projeto Original
 
